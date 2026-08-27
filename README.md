@@ -73,7 +73,7 @@ python scripts/compute_compliance.py
 
 This reads `data/scoring_data.xlsx`, computes the per-journal per-criterion compliance rates, and writes:
 
-* `figures/compliance_rate_by_criterion.png` (the side-by-side chart shown in the paper),
+* `figures/Figure_1.jpeg` (the side-by-side chart shown in the paper),
 * `figures/compliance_rate_by_criterion.csv` (the corresponding numeric table).
 
 The console output prints the full rate table and the sample sizes by journal.
