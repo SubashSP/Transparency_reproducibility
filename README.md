@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ### 2. Run the script
 
 ```bash
-python scripts/compute_compliance.py
+python scripts/Figure_1.py
 ```
 
 This reads `data/scoring_data.xlsx`, computes the per-journal per-criterion compliance rates, and writes:
